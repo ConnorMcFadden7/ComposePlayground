@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ConnorComposeDemo</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_get_started_button_cta">Get Started</string>
+    <string name="onboarding_already_have_account_cta">I already have an account</string>
+    <string name="onboarding_page_one_title">Discover destinations</string>
+    <string name="onboarding_page_one_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mollis, diam eu lobortis condimentum, dui enim ullamcorper risus, ultricies sodales nunc enim ac massa. In vitae rutrum arcu, eget dapibus elit.</string>
+    <string name="onboarding_page_two_title">The best destinations</string>
+    <string name="onboarding_page_two_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mollis, diam eu lobortis condimentum, dui enim ullamcorper risus, ultricies sodales nunc enim ac massa. In vitae rutrum arcu, eget dapibus elit.</string>
+
+    <!-- Login -->
+    <string name="login_screen_title">Log In</string>
+    <string name="login_cta_text">Log In</string>
+    <string name="login_email_placeholder">Email Address</string>
+    <string name="login_password_placeholder">Password</string>
+
+</resources>
